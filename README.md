@@ -4,7 +4,7 @@
 
 **Link to project**
 
-https://drive.google.com/drive/folders/1kU7pr1HKnNnrLSXXC7yf-3ZmOJK0zUQ_
+https://drive.google.com/drive/folders/1kU7pr1HKnNnrLSXXC7yf-3ZmOJK0zUQ_?usp=sharing
 
 ## Overview
 
