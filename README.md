@@ -39,6 +39,8 @@ ElectroniTech Manufacturing Co. is a leading company in the manufacturing and di
 22. **Customer Segmentation:** Segment customers in **`Customer.csv`** based on their transaction behavior from **`Payment_Details.csv`** and membership duration from **`Membership.csv`**. Create segments such as 'High Value - Long Term', 'Low Value - Short Term', etc., based on total payment amounts and membership lengths.
 ## Dashboard
 Interactive excel dashboard was designed to provide comprehensive insights into various aspects of ecommerce operations. Each dashboard leverages advanced Excel techniques to visualize key metrics, trends, and patterns, offering valuable information for data-driven decision-making.
+
+
 ![image](https://github.com/user-attachments/assets/b7495fa6-e2f3-47e8-a394-5b22a1e36275)
 
 
